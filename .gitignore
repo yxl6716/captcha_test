@@ -1,0 +1,5 @@
+**/__pycache__
+**/.venv
+**/__init__.py
+**/.pytest_cache
+**/*.pth
