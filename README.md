@@ -126,4 +126,4 @@ if __name__ == "__main__":
 
 ## Star History
 ![](images/https://www.star-history.com/assets/icon.png)
-![Star History Chart](https://api.star-history.com/svg?repos=yxl6716/captcha_test&type=Date)](https://www.star-history.com/#yxl6716/captcha_test&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=yxl6716/captcha_test&type=Date)(https://www.star-history.com/#yxl6716/captcha_test&type=Date)
