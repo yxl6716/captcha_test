@@ -123,7 +123,3 @@ if __name__ == "__main__":
 ## 许可证
 
 该项目采用 [GNU General Public License v3.0](LICENSE) 许可证进行开源。
-
-## Star History
-
-![Star History Chart](https://www.star-history.com/assets/icon.png)(https://api.star-history.com/svg?repos=yxl6716/captcha_test&type=Date)
