@@ -125,5 +125,5 @@ if __name__ == "__main__":
 该项目采用 [GNU General Public License v3.0](LICENSE) 许可证进行开源。
 
 ## Star History
-![](images/https://www.star-history.com/assets/icon.png)
-![Star History Chart](https://api.star-history.com/svg?repos=yxl6716/captcha_test&type=Date)
+
+![Star History Chart](https://www.star-history.com/assets/icon.png)(https://api.star-history.com/svg?repos=yxl6716/captcha_test&type=Date)
